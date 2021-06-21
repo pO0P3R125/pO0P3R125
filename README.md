@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pO0P3R125
+- 👀 I’m interested in modding and game development
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on modding proyects
+- 📫 How to reach me. comment on this readme jajaja
